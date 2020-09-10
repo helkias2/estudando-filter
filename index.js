@@ -7,7 +7,7 @@ obj = [
     {nome: 'Rosa', idade: 60, salario: 5050, premium: false},
     
 ]
-// Primeira coisa que e entendi sobre o filter que ele sempre vai retorna um array. Uma outra coisa sobre filter sempre usa validacao 'IF'
+// Primeira coisa que eu entendi sobre o filter, e que ele sempre vai retorna um novo array. Uma outra coisa sobre filter sempre usa validacao 'IF'
 // Filter e uma estrutura magica que facilita quando se filtra qualquer coisa de array e objertos. 
 // Abaixo tem um exemplo simples.
 
