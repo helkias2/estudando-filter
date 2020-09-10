@@ -1,5 +1,3 @@
-# estudando-filter
-
 <h1>Estudando Filter Js</h1> 
 <br>
 var newArray = arr.filter(callback[, thisArg])
